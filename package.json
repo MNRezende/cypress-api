@@ -1,0 +1,14 @@
+{
+  "name": "test-api-cy",
+  "version": "1.0.0",
+  "description": "Testing API using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx run cypress"
+  },
+  "author": "Miguel Rezende",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.7.0"
+  }
+}
